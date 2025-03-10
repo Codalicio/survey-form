@@ -1,0 +1,6 @@
+# Links :
+
+* Github : https://github.com/Codalicio/survey-form
+* Github Pages : https://codalicio.github.io/survey-form/
+* Netlify : https://dashing-cat-f54b63.netlify.app/
+* Vercel : https://survey-form-eta-ten.vercel.app/
